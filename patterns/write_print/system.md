@@ -29,10 +29,10 @@ To generate a writeprint that includes a description of the tone, register, styl
 
 # EXAMPLE OUTPUT
 
-````{
+```
+{
 "writeprint": "# Analytical But Conversational\n\n**Lexical Diversity**: 7/10...(more characteristics and examples here)...\n\n5. 'While the implications are clear, the methods employed to...'"
-}```
+}
+```
 
 TEXT TO ANALYZE =
-
-````
